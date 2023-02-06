@@ -4,23 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06e70423-42d0-4007-bfb4-9f7d39d31020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/GFG1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/GFG3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/GFG4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/LinkedListEstudos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/LinkedListEstudos1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/model/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/model/GFGExisteConsoanteRegex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/model/Helper.java" afterDir="false" />
+    <list default="true" id="06e70423-42d0-4007-bfb4-9f7d39d31020" name="Changes" comment="estudos collections java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/ArraysCollects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/GFG6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/ListIteratorJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/RemoveElementsArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/SearchArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/SearchArrayListPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/SearchingUnsortedListPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/colecoes/java/ArrayListJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/colecoes/java/ArrayListJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,37 +40,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;TF_FMT&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="colecoes.java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GFGExisteConsoanteRegex">
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.java.model.GFG" />
-      <module name="ColecoesJavaEstudos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="colecoes.java.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GFG3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.java.GFG3" />
+  <component name="RunManager" selected="Application.RemoveElementsArrayList">
+    <configuration name="ArraysCollects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.java.ArraysCollects" />
       <module name="ColecoesJavaEstudos" />
       <extension name="coverage">
         <pattern>
@@ -88,21 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFGExisteConsoanteRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.java.model.GFGExisteConsoanteRegex" />
-      <module name="ColecoesJavaEstudos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="colecoes.java.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListEstudos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.java.LinkedListEstudos" />
+    <configuration name="ListIteratorJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.java.ListIteratorJava" />
       <module name="ColecoesJavaEstudos" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +84,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListEstudos1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.java.LinkedListEstudos1" />
+    <configuration name="RemoveElementsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.java.RemoveElementsArrayList" />
+      <module name="ColecoesJavaEstudos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="colecoes.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.java.SearchArrayList" />
+      <module name="ColecoesJavaEstudos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="colecoes.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchArrayListPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.java.SearchArrayListPredicate" />
       <module name="ColecoesJavaEstudos" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GFGExisteConsoanteRegex" />
-        <item itemvalue="Application.GFG3" />
-        <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.LinkedListEstudos1" />
-        <item itemvalue="Application.LinkedListEstudos" />
+        <item itemvalue="Application.RemoveElementsArrayList" />
+        <item itemvalue="Application.SearchArrayListPredicate" />
+        <item itemvalue="Application.SearchArrayList" />
+        <item itemvalue="Application.ListIteratorJava" />
+        <item itemvalue="Application.ArraysCollects" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +142,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675378104234</updated>
     </task>
+    <task id="LOCAL-00001" summary="estudos collections java">
+      <created>1675453812059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675453812059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +162,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="estudos collections java" />
+    <option name="LAST_COMMIT_MESSAGE" value="estudos collections java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -186,6 +194,24 @@
           <url>file://$PROJECT_DIR$/src/main/java/colecoes/java/model/GFGExisteConsoanteRegex.java</url>
           <line>8</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/colecoes/java/GFG6.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/colecoes/java/ArrayListJava.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/colecoes/java/ListIteratorJava.java</url>
+          <line>22</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
